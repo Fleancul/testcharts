@@ -1,0 +1,53 @@
+{
+"xData": [1604917701, 1604917702, 1604917703, 1604917704, 1604917705, 1604917706],
+  "datasets": [
+    {
+      "name": "RMS X",
+      "data": [1.1, 1.3, 1.4, 1.4, 1.4, 1.5],
+      "unit": "m/s2",
+      "type": "line",
+      "valueDecimals": 1
+    },
+    {
+      "name": "RMX Y",
+      "data": [1.2, 1.4, 1.6, 1.6, 1.6, 1.6],
+      "unit": "m/s2",
+      "type": "line",
+      "valueDecimals": 1
+    },
+    {
+      "name": "RMS Z",
+      "data": [1.1, 1.2, 1.4, 1.4, 1.4, 1.4],
+      "unit": "m/s2",
+      "type": "line",
+      "valueDecimals": 1
+    },{
+      "name": "Peak X",
+      "data": [0.4, 1.5, 0.3, 0.3, 0.3, 0.3],
+      "unit": "m",
+      "type": "line",
+      "valueDecimals": 1
+    },
+    {
+      "name": "Peak y",
+      "data": [0.3, 1.3, 0.3, 0.3, 0.3, 0.3],
+      "unit": "m/s2",
+      "type": "line",
+      "valueDecimals": 1
+    },
+    {
+      "name": "Peak Z",
+      "data": [0.3, 1.4, 0.4, 0.3, 0.3, 0.3],
+      "unit": "m/s2",
+      "type": "line",
+      "valueDecimals": 1
+    },
+    {
+      "name": "GRIP FORCE",
+      "data": [4095.0, 4095.0, 4095.0, 4095.0, 4095.0, 4095.0],
+      "unit": "N",
+      "type": "area",
+      "valueDecimals": 1
+    }
+  ]
+}
